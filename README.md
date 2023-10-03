@@ -7,4 +7,4 @@ Kumpulan kode dari soal-soal smk.dev weekly chanllenge yang telah saya kerjakan
 - javascript
 
 ## challenge terbaru
-untuk challenge terbaru anda bisa melihatnya [disini](/week2/)
+untuk challenge terbaru anda bisa melihatnya [disini](/week%203%20#7393/)
